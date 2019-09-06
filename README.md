@@ -1,1 +1,7 @@
-# jjasn
+CISC474 - Advanced Web Technologies
+
+Authors:
+Jason Allen
+Jason Burnell
+Shabir Ghulam
+Amaad Rafi
