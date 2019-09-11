@@ -1,8 +1,9 @@
-CISC474 - Advanced Web Technologies
+# CISC474 - Advanced Web Technologies
 
-Authors:
--Jason Allen
--Jason Burnell
--Shabir Ghulam
--Amaad Rafi
--Nonso Iwu
+# Contributors:
+Jason Allen
+Jason Burnell
+Shabir Ghulam
+Amaad Rafi
+Nonso Iwu
+Toby Boyd
