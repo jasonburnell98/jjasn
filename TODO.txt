@@ -6,13 +6,10 @@ Players can add, remove and alter the script that is presented to them.
 Game is comprised of set up and bosses.
 
 To Do:
-State Architecture
-State Architecture Scripts
 Player Art
 Scene Art
 Weapon/Clothes Art
 Weapon Database
-
 State Architecture
     -Set Up Phase (Different Script)
     -Battle Phase (Different Script)
